@@ -65,7 +65,7 @@ func (app *application) createSnippet(w http.ResponseWriter, r *http.Request) {
 		return
 	}
 
-	title := "Salam broooooooo"
+	title := "Hi baby, my name is Slim Shady"
 	content := "O snail\nClimb Mount Fuji,\nBut slowly, slowly!\n\n– Kobayashi Issa"
 	expires := "7hj"
 
