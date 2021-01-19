@@ -5,7 +5,7 @@ import (
 	"database/sql"
 	"errors"
 	"github.com/jackc/pgx/v4/pgxpool"
-	"se08.com/pkg/models"
+	"se07.com/pkg/models"
 	"strconv"
 	"time"
 )
